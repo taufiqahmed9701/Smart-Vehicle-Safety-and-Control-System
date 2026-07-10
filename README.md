@@ -5,6 +5,7 @@
 ---
 | Project | Smart Vehicle Safety and Control System |
 |----------|-----------------------------------------|
+| Project Type | Embedded Systems & IoT Prototype |
 | Controller | ESP32 |
 | Domain | Embedded Systems • IoT • Vehicle Safety |
 | Motor Driver | Custom MOSFET H-Bridge |
