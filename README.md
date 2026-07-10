@@ -126,7 +126,7 @@ The Smart Vehicle Safety and Control System provides real-time monitoring throug
 - System status
 - Remote control and monitoring
 
-![Blynk Dashboard](Images/Blynk_Dashboard.png)
+![Blynk Dashboard](Images/Blynk_Dashboard.jpeg)
 
 ## Circuit Diagram
 
