@@ -3,6 +3,13 @@
 > **An ESP32-based smart vehicle prototype that integrates embedded systems, IoT, sensor technology, and a custom MOSFET H-Bridge to improve vehicle monitoring, safety, and motor control.**
 
 ---
+| Project | Smart Vehicle Safety and Control System |
+|----------|-----------------------------------------|
+| Controller | ESP32 |
+| Domain | Embedded Systems • IoT • Vehicle Safety |
+| Motor Driver | Custom MOSFET H-Bridge |
+| IDE | Arduino IDE |
+| Status | ✅ Completed |
 
 ## Project Overview
 
