@@ -117,17 +117,18 @@ README.md
 ---
 ## 📱 Blynk IoT Dashboard
 
-The Smart Vehicle Safety and Control System provides real-time monitoring through the Blynk IoT platform. The dashboard allows users to monitor important system parameters and interact with the prototype remotely.
+The Smart Vehicle Safety and Control System integrates with the Blynk IoT platform to provide remote monitoring and control. The dashboard displays real-time operating parameters and allows users to monitor the prototype from a mobile device.
 
-**Dashboard Features**
-- Vehicle speed monitoring
-- Load monitoring
-- Emergency stop status
-- System status
-- Remote control and monitoring
+### Available Functions
+
+- Vehicle load monitoring
+- Motor speed (RPM) monitoring
+- Battery voltage display
+- Drive mode selection (ECO)
+- Emergency stop control
 
 ![Blynk Dashboard](Images/Blynk_Dashboard.jpeg)
-
+---
 ## Circuit Diagram
 
 ![Circuit Diagram](Circuit_Diagram/Circuit_Diagram.png)
