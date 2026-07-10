@@ -1,6 +1,6 @@
 # Smart Vehicle Safety and Control System
 
-> **An ESP32-based smart vehicle prototype that integrates embedded systems, IoT, sensor technology, and a custom MOSFET H-Bridge to improve vehicle monitoring, safety, and motor control.**
+>An ESP32-based intelligent vehicle safety prototype that integrates embedded systems, IoT, real-time sensing, and a custom MOSFET H-Bridge to monitor vehicle conditions, enhance operational safety, and provide efficient motor control.
 
 ---
 | Project | Smart Vehicle Safety and Control System |
