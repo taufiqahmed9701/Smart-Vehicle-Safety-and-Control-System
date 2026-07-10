@@ -159,26 +159,32 @@ A detailed explanation of the design, implementation, and testing is available i
 
 ---
 
-## Challenges Faced
+##  Challenges Faced
 
-- Designing and testing a custom MOSFET H-Bridge.
-- Integrating multiple sensors with the ESP32.
-- Achieving stable PWM-based motor control.
+During the development of the prototype, several practical engineering challenges were encountered:
+
+- Designing a reliable custom MOSFET H-Bridge.
+- Interfacing multiple sensors with the ESP32 simultaneously.
+- Achieving stable PWM-based motor speed control.
 - Implementing overload detection and emergency stop logic.
-- Combining hardware control with IoT monitoring.
+- Integrating embedded hardware with the Blynk IoT platform.
 
 ---
 
-## Future Improvements
+##  Future Improvements
 
-- GPS-based vehicle tracking
-- Battery health monitoring
-- Cloud data logging
-- Mobile application integration
-- AI-assisted predictive safety
-- Advanced vehicle diagnostics
+Potential enhancements that can further improve the system include:
+
+- Battery Health Monitoring (SOH & SOC)
+- GPS-based Vehicle Tracking
+- Cloud Data Logging and Analytics
+- Mobile Application Integration
+- AI-based Driver Assistance
+- Predictive Maintenance using Machine Learning
+- CAN Bus Communication
 
 ---
+
 ## Skills Demonstrated
 
 During the development of this project, the following technical skills were applied:
