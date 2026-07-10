@@ -127,6 +127,18 @@ README.md
 ![Block Diagram](Circuit_Diagram/Block_Diagram.jpeg)
 
 ---
+## Results
+
+The Smart Vehicle Safety and Control System prototype was successfully designed, implemented, and tested. The developed system achieved the following outcomes:
+
+- Successfully monitored vehicle load using a Load Cell and HX711 module.
+- Implemented real-time DC motor speed control using PWM.
+- Measured motor speed accurately using a Hall Effect sensor.
+- Designed and validated a custom MOSFET H-Bridge for bidirectional motor control.
+- Enabled emergency stop functionality to improve operational safety.
+- Displayed real-time system parameters on a 20×4 LCD.
+- Achieved remote monitoring and control through the Blynk IoT platform.
+- Demonstrated reliable integration of embedded systems, sensors, and power electronics into a single prototype.
 
 ## Project Documentation
 
@@ -154,6 +166,22 @@ A detailed explanation of the design, implementation, and testing is available i
 - Advanced vehicle diagnostics
 
 ---
+## Skills Demonstrated
+
+During the development of this project, the following technical skills were applied:
+
+- Embedded Systems Development
+- ESP32 Programming
+- Arduino Programming
+- Sensor Interfacing
+- PWM-Based Motor Control
+- Hall Sensor RPM Measurement
+- Load Cell Integration (HX711)
+- IoT Application Development (Blynk)
+- MOSFET H-Bridge Design
+- Power Electronics
+- Hardware Integration and Testing
+- Embedded System Debugging
 
 ## Author
 
