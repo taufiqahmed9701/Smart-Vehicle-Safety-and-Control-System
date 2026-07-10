@@ -8,7 +8,7 @@
 | Controller | ESP32 |
 | Domain | Embedded Systems • IoT • Vehicle Safety |
 | Motor Driver | Custom MOSFET H-Bridge |
-| IDE | Arduino IDE |
+| Development Environment | Arduino IDE |
 | Status | ✅ Completed |
 
 ## Project Overview
